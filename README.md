@@ -1,1 +1,1 @@
-# kidsWorldFunc
+# kidz-world-static
